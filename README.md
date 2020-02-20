@@ -1,1 +1,2 @@
-# Recipes API
+# Initial page
+
